@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/0xkilty.github.io/filler/static/css/main.a5d8641a.css",
-    "main.js": "/0xkilty.github.io/filler/static/js/main.7bdd91af.js",
-    "static/media/hello_wasm_bg.wasm": "/0xkilty.github.io/filler/static/media/hello_wasm_bg.bf022c1ff2c23faaaf0e.wasm",
-    "index.html": "/0xkilty.github.io/filler/index.html",
-    "main.a5d8641a.css.map": "/0xkilty.github.io/filler/static/css/main.a5d8641a.css.map",
-    "main.7bdd91af.js.map": "/0xkilty.github.io/filler/static/js/main.7bdd91af.js.map"
+    "main.css": "/filler/static/css/main.a5d8641a.css",
+    "main.js": "/filler/static/js/main.5016ff19.js",
+    "static/media/hello_wasm_bg.wasm": "/filler/static/media/hello_wasm_bg.bf022c1ff2c23faaaf0e.wasm",
+    "index.html": "/filler/index.html",
+    "main.a5d8641a.css.map": "/filler/static/css/main.a5d8641a.css.map",
+    "main.5016ff19.js.map": "/filler/static/js/main.5016ff19.js.map"
   },
   "entrypoints": [
     "static/css/main.a5d8641a.css",
-    "static/js/main.7bdd91af.js"
+    "static/js/main.5016ff19.js"
   ]
 }
