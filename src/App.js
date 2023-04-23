@@ -66,8 +66,8 @@ function App() {
     return {
       color: "primary.contrastText",
       textTransform: "none",
-      marginTop: "15px",
-      marginLeft: "20px",
+      marginTop: "1rem",
+      marginLeft: "1rem",
       "&:hover": {
         backgroundColor: color,
         color: "primary.main",
@@ -459,23 +459,23 @@ function App() {
     <ThemeProvider theme={theme}>
       <Box
         sx={{
-          width: "100vw",
-          height: "100%",
+          width: "50%",
+          minWidth: "44rem",
+          margin: "auto",
           backgroundColor: "primary.main",
-        }}
+          }}
       >
         <Box
           sx={{
-            width: "60%",
+            width: "90%",
             margin: "auto",
             paddingTop: "5vh",
-            minWidth: "650px",
           }}
         >
           <Typography
             variant="header"
             color="primary.contrastText"
-            sx={{ paddingLeft: "10px" }}
+            sx={{ paddingLeft: "1rem" }}
           >
             Filler
           </Typography>
@@ -498,7 +498,7 @@ function App() {
                 },
               }}
               sx={{
-                margin: "15px",
+                margin: "1rem",
               }}
             >
               <DialogTitle sx={{ backgroundColor: "primary.main" }}>
@@ -522,7 +522,7 @@ function App() {
                   sx={{
                     color: "primary.contrastText",
                     textTransform: "none",
-                    marginBottom: "20px",
+                    marginBottom: "1rem",
                     display:"block",
                     "&:hover": {
                       backgroundColor: "secondary.green",
@@ -556,7 +556,7 @@ function App() {
               sx={{
                 margin: "auto",
                 display: "block",
-                maxWidth: "512px",
+                maxWidth: "32rem",
               }}
             >
               <Paper
@@ -681,9 +681,9 @@ function App() {
                 <Box
                   sx={{
                     display: "block",
-                    paddingTop: "20px",
-                    paddingBottom: "35px",
-                    height: "80px",
+                    paddingTop: "1rem",
+                    paddingBottom: "2rem",
+                    height: "5rem",
                     margin: "auto",
                     textAlign: "center",
                   }}

@@ -37,7 +37,7 @@ const ColorPicker = ({ blockedColors, move, turn, active } ) => {
         sx={{
           display: "flex",
           margin: 'auto',
-          width: "480px",
+          width: "30rem",
           paddingTop: "35px",
           paddingBottom: "35px",
           height:80
