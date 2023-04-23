@@ -1,7 +1,7 @@
 {
   "name": "filler",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
   "homepage": "https://0xkilty.github.io/filler",
   "dependencies": {
     "@emotion/react": "^11.10.5",
