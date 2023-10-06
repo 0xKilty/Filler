@@ -1,8 +1,8 @@
 {
-  "name": "Filler",
+  "name": "filler",
   "version": "0.1.1",
   "private": false,
-  "homepage": "https://0xkilty.github.io/Filler",
+  "homepage": "https://0xkilty.github.io/filler",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
